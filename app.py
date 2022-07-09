@@ -9,5 +9,9 @@ def mul(a,b):
 
 def div(a,b):
     return a/b
+    
 def temp():
     pass
+
+def mod(a,b):
+    return a%b
